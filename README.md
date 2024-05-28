@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleh Koliada</h1>
 <h3 align="center">A student of Faculty of Applied Mathematics in the Igor Sikorsky Kyiv Polytechnic Institute</h3>
 
-- 🔭 I’m currently working on [task-manager](https://github.com/Oleh-Koliada/Emergency-notification-system)
+- 🔭 I’m currently working on [task-manager](https://github.com/Fawa24/task-manager.git)
 
 - 🌱 I’m currently learning **Backend development using ASP.Net WebAPI (mostly focused on learning clean architecture)**
 
