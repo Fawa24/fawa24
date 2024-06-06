@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [task-manager](https://github.com/Fawa24/task-manager.git)
 
-- 🌱 I’m currently learning **Backend development using ASP.Net WebAPI (mostly focused on learning clean architecture)**
+- 🌱 I’m currently learning **RabbitMQ**
 
 - 📫 How to reach me **olehkoliada37@gmail.com**
 
