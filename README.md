@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleh Koliada</h1>
 <h3 align="center">A student of Faculty of Applied Mathematics in the Igor Sikorsky Kyiv Polytechnic Institute</h3>
 
-- 🌱 I’m currently learning **Design Patterns in C#**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **olehkoliada37@gmail.com**
 
